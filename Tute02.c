@@ -17,9 +17,7 @@ Distance -> 50
 Amount = 30 x 50 + (50-30) x 40 = 2300*/
 
 #include <stdio.h>
-
 int main() {
-  
   double m=50.00,n=40.00,amount=0,distance=0;//declaring variables
 	
 	printf("Enter Distance(km) : ");//Input distance

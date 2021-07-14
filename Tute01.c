@@ -3,9 +3,7 @@
    Write a C program to input marks of two subjects. Calculate and print the average of the two marks. */
 
 #include <stdio.h>
-
 int main() {
-  
   double sub1,sub2,average;//declaring variables
 	
 	printf("Enter Subject 01 Marks : ");//Input Subject 01 Marks
